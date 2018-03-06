@@ -1,5 +1,10 @@
 package ropzh;
 
+// Mit ir ki a program?
+//
+//  A) Nem fordul le        B) 01
+//  C) 3                    D) 1
+
 public class Main {
     public static void main(String[] args) {
         Tree firstTree = Tree.treeFactory();
